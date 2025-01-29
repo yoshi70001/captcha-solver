@@ -3,3 +3,4 @@ images
 styled_captcha_dataset
 fonts
 *.yaml
+*.csv
